@@ -5,8 +5,7 @@ Sou um desenvolvedor back-end, atualmente com experiência em TypeScript/JavaScr
 - :computer: Back-end: TypeScript/JavaScript, Golang, Java
 - :floppy_disk: Bancos de dados: MySQL, PostgreSQL
 - :whale: Docker
-- :package: API npm (rompot)
-
+  
 ## Projetos
 
 Sinta-se à vontade para explorar meus repositórios para ver outros projetos interessantes em que trabalhei.

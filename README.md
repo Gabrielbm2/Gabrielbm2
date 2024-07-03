@@ -49,13 +49,13 @@ Sinta-se à vontade para explorar meus repositórios para ver outros projetos in
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Bernardo&show_icons=true&count_private=true&hide=issues&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielbm2&show_icons=true&count_private=true&hide=issues&theme=radical" alt="Estatísticas do GitHub">
 </div>
 
 ## Linguagens mais utilizadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Bernardo&layout=compact&theme=radical" alt="Linguagens mais utilizadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielbm2&layout=compact&theme=radical" alt="Linguagens mais utilizadas">
 </div>
 
 ## Contato

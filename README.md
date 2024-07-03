@@ -49,7 +49,7 @@ Sinta-se à vontade para explorar meus repositórios para ver outros projetos in
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielbm2&show_icons=true&count_private=true&hide=issues&theme=radical" alt="Estatísticas do GitHub">
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielbm2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Linguagens mais utilizadas

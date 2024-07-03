@@ -46,18 +46,6 @@ Sinta-se à vontade para explorar meus repositórios para ver outros projetos in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" title="DBeaver" width="40" height="40"/>
 
-## Estatísticas do GitHub
-
-<div align="center">
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielbm2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-## Linguagens mais utilizadas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielbm2&layout=compact&theme=radical" alt="Linguagens mais utilizadas">
-</div>
-
 ## Contato
 
 Se você quiser entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente conversar sobre programação, você pode me encontrar nas seguintes redes sociais e plataformas:

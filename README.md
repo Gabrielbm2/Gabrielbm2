@@ -45,6 +45,14 @@ Sinta-se à vontade para explorar meus repositórios para ver outros projetos in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" title="DBeaver" width="40" height="40"/>
 
+<br>
+<h1 align="left"><u>Github stats</u></h1>
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielbm2&theme=onedark" alt="Gabrielbm2 Streak" />
+    </span>
+</p>
+
 ## Contato
 
 Se você quiser entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente conversar sobre programação, você pode me encontrar nas seguintes redes sociais e plataformas:
@@ -57,3 +65,4 @@ Se você quiser entrar em contato comigo para discutir oportunidades de colabora
     <img src="https://img.shields.io/badge/Instagram-Perfil-%231DA1F2?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
 </div>
+

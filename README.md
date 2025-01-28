@@ -47,11 +47,10 @@ Sinta-se à vontade para explorar meus repositórios para ver outros projetos in
 
 <br>
 <h1 align="left"><u>Github stats</u></h1>
-<p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielbm2&theme=onedark" alt="Gabrielbm2 Streak" />
-    </span>
-</p>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbm2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielbm2&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
 
 ## Contato
 

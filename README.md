@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor back-end com experiência em TypeScript/JavaScript, Ruby on Rails, Spring Boot e Golang. Tenho prática com bancos de dados como MySQL e PostgreSQL e conhecimento em Docker para criação e gerenciamento de contêineres.
 
-- :computer: Back-end: TypeScript/JavaScript,PHP, Golang, Java
+- :computer: Back-end: TypeScript/JavaScript,PHP ,Golang, Java
 - :floppy_disk: Bancos de dados: MySQL, PostgreSQL
 - :whale: Docker
   

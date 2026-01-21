@@ -74,7 +74,8 @@ Contributed to the development of e-commerce platforms, CRM systems, and mobile 
   <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/6DA56C" title="Node.js"/> 
   <img height="40" width="40" src="https://cdn.simpleicons.org/nestjs/6DA56C" title="NestJS"/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/express/6DA56C" title="Express"/>
-  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/6DA56C" title="TypeScript"/>    
+  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/6DA56C" title="TypeScript"/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/springboot/6DA56C" title="Spring Boot"/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/prisma/6DA56C" title="Prisma ORM"/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/drizzle/6DA56C" title="Drizzle ORM"/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/python/6DA56C" title="Python"/>
